@@ -1,0 +1,15 @@
+D:\kia prjc\tamrin\AdjacencyGraph\AdjacencyGraph\bin\Debug\net6.0\AdjacencyGraph.exe
+D:\kia prjc\tamrin\AdjacencyGraph\AdjacencyGraph\bin\Debug\net6.0\AdjacencyGraph.deps.json
+D:\kia prjc\tamrin\AdjacencyGraph\AdjacencyGraph\bin\Debug\net6.0\AdjacencyGraph.runtimeconfig.json
+D:\kia prjc\tamrin\AdjacencyGraph\AdjacencyGraph\bin\Debug\net6.0\AdjacencyGraph.dll
+D:\kia prjc\tamrin\AdjacencyGraph\AdjacencyGraph\bin\Debug\net6.0\ref\AdjacencyGraph.dll
+D:\kia prjc\tamrin\AdjacencyGraph\AdjacencyGraph\bin\Debug\net6.0\AdjacencyGraph.pdb
+D:\kia prjc\tamrin\AdjacencyGraph\AdjacencyGraph\obj\Debug\net6.0\AdjacencyGraph.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\AdjacencyGraph\AdjacencyGraph\obj\Debug\net6.0\AdjacencyGraph.GeneratedMSBuildEditorConfig.editorconfig
+D:\kia prjc\tamrin\AdjacencyGraph\AdjacencyGraph\obj\Debug\net6.0\AdjacencyGraph.AssemblyInfoInputs.cache
+D:\kia prjc\tamrin\AdjacencyGraph\AdjacencyGraph\obj\Debug\net6.0\AdjacencyGraph.AssemblyInfo.cs
+D:\kia prjc\tamrin\AdjacencyGraph\AdjacencyGraph\obj\Debug\net6.0\AdjacencyGraph.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\AdjacencyGraph\AdjacencyGraph\obj\Debug\net6.0\AdjacencyGraph.dll
+D:\kia prjc\tamrin\AdjacencyGraph\AdjacencyGraph\obj\Debug\net6.0\ref\AdjacencyGraph.dll
+D:\kia prjc\tamrin\AdjacencyGraph\AdjacencyGraph\obj\Debug\net6.0\AdjacencyGraph.pdb
+D:\kia prjc\tamrin\AdjacencyGraph\AdjacencyGraph\obj\Debug\net6.0\AdjacencyGraph.genruntimeconfig.cache
